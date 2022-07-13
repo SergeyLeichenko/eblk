@@ -1,0 +1,370 @@
+{
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "submit": "Submit",
+    "yes": "Yes",
+    "data_changed_msg": "Your data successfully changed",
+    "loading_error": "Error during loading your data. Please try again",
+    "email_verified_msg": "Email verified! Thanks!",
+    "confirm": "Confirm"
+  },
+  "common_modal": {
+    "title": "Info Message"
+  },
+
+  "create_group": {
+    "title": "Add Organization",
+    "name_placeholder": "Organization Name",
+    "url_placeholder": "Website URL",
+    "description_placeholder": "Description",
+    "add_group": "Add"
+  },
+
+  "create_link": {
+    "new_link": "Create New Link",
+    "url_placeholder": "Paste Your Link",
+    "add_link": "Add Link",
+    "short_code": "Short Code",
+    "link_title": "Link Title",
+    "simple_form": "Simple Form",
+    "advanced_form": "Advanced Form"
+  },
+
+  "edit_link": {
+    "title": "Edit Link",
+    "code_placeholder": "Code",
+    "title_placeholder": "Enter Link Title"
+  },
+
+  "main_nav": {
+    "settings": "Settings",
+    "add_organization": "Add Organization",
+    "custom_domain": "Custom Domain",
+    "logout": "Logout",
+    "login": "Sign In",
+    "signup": "Sign Up",
+    "active_profile": "Active Profile",
+    "my_links": "My Eblinks",
+    "my_groups": "My Groups",
+    "subscription": "Subscription",
+    "social": "Connect Social Media",
+    "help": "Help"
+  },
+
+  "edit_group": {
+    "delete_group": "Delete Group",
+    "change_owner": "Change Ownership",
+    "select_new_owner": "Select New Owner",
+    "edit_users": "Edit Users",
+    "add_new_user": "Add New User",
+    "user_name": "Name",
+    "user_role": "Role",
+    "viewer": "Viewer",
+    "editor": "Editor",
+    "admin": "Admin",
+    "owner": "Owner",
+    "delete_user": "Delete User",
+    "user_email": "User's Email",
+    "add_user": "Add User",
+    "deleted_group_msg": "Group deleted successfully",
+    "default_domain": "Default Domain",
+    "invitation_sent": "Invitation has been sent to __email__",
+    "share_domains": "Share Domains",
+    "edit_organization": "Edit Organization",
+    "cancel_invitation": "Cancel Invitation",
+    "cancel_invitation_text": "Are sure you want to cancel invitation for __email__",
+    "invitations": "Invitations",
+    "resend_invitation": "Resend"
+  },
+
+  "edit_profile": {
+    "edit_profile": "Edit Profile",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "reset_pass": "Reset Password",
+    "reset_pass_conf": "Are you sure that you want to reset Your password?",
+    "link_social": "Link account with social media",
+    "reset_pass_msg": "Email with reset password link has been sent to your email. If the email doesn't show up in your inbox, be sure to check your spam folder.",
+    "not_verified": "Email not verified",
+    "set_default": "Set as Default",
+    "delete_account": "Delete Account"
+  },
+
+  "delete_account": {
+    "title": "Are you absolutely sure?",
+    "body": "This action cannot be undone. This will permanently delete Your account, groups and domains. Also you will loose access to all your links. Please type in 'DELETE' to confirm."
+  },
+
+  "payment_methods": {
+    "payment_methods": "Payment methods",
+    "method": "Method",
+    "default": "Default",
+    "add_payment_method": "Add Payment Method",
+    "delete_payment_method": "Delete Payment Method",
+    "delete_payment_method_conf": "Are you sure that you want to delete payment method?"
+  },
+
+  "forbidden": {
+    "login_out": "Please log in",
+    "unverified": "Please verify your email",
+    "access_denied": "Access denied"
+  },
+
+  "home": {
+    "total_links": "Total Links",
+    "total_clicks": "Total Clicks",
+    "last_day": "Last day",
+    "last_week": "Last week",
+    "last_month": "Last month",
+    "last_year": "Last year",
+    "created": "Created",
+    "edit": "Edit",
+    "share": "Share",
+    "copy": "Copy",
+    "all_hits": "All Time Clicks",
+    "date_range_clicks": "Date Range Clicks",
+    "no_links": "You have no <span>link</span> yet.",
+    "email_not_verified": "Please confirm verification link sent to your email",
+    "resend_verification_link": "Verification link was sent",
+    "verification_email_sent_msg": "Email with verification link has been sent to your email. If the email doesn't show up in your inbox, be sure to check your spam folder.",
+    "top_locations": "Top Locations",
+    "top_referrers": "Top Referrers",
+    "number_of_clicks": "Number of clicks",
+    "no_data_available": "No data is available yet",
+    "main_board": "Main Board",
+    "favourites": "Favourites",
+    "sort": "Sort",
+    "labels": {
+      "other": "Other",
+      "months": {
+        "jan": "Jan",
+        "feb": "Feb",
+        "mar": "Mar",
+        "apr": "Apr",
+        "may": "May",
+        "jun": "Jun",
+        "jul": "Jul",
+        "aug": "Aug",
+        "sep": "Sep",
+        "oct": "Oct",
+        "nov": "Nov",
+        "dec": "Dec"
+      }
+    }
+  },
+
+  "not_found": {
+    "title": "Sorry, that page doesn't exist",
+    "return": "Return to the Homepage"
+  },
+
+  "password_recovery": {
+    "change_pass": "Change Password",
+    "new_pass": "New Password",
+    "confirm_pass": "Confirm Password",
+    "repeat_new_pass": "New Password (again)",
+    "pass_changed_msg": "Password successfully changed",
+    "pass_does_not_match": "Passwords don't match"
+  },
+
+  "welcome": {
+    "description": "Einblik - Manage Custom Short Links With Your Team",
+    "description_future": "Einblik - The Straightforward Integrated SMM Platform"
+  },
+
+  "create_domain": {
+    "add_domain": "Add Domain"
+  },
+
+  "edit_domain": {
+    "edit_domain": "Edit Domain"
+  },
+
+  "custom_domain": {
+    "title": "My Domains",
+    "default": "Default"
+  },
+
+  "payment_form": {
+    "success": "Payment successful!",
+    "title": "Subscription for Starter package, price: 45$ per month",
+    "payment_data": "We don't store any information about user's credit cards or payment methods. All this information provided by our payment service <a href='https://www.braintreepayments.com/' target='_blank'>Braintree</a>.",
+    "check_privacy": "Check <a href='/privacy-policy' target='_blank'>Privacy Policy</a> for more details."
+  },
+
+  "subscription": {
+    "current_plan": "Your current plan is:",
+    "free": {
+      "name": "Free",
+      "description": "<span class='bold text-selected'>Free plan</span> - you use billing plans and billing agreements to create an agreement for a recurring <span class='bold text-selected'>einblik</span> for goods or services. <br><br> A billing plan includes payment definitions and other details. A plan must include at least one regular payment definition and, optionally, a trial payment definition. A payment definition indicates how often and for how long the subscriber is charged. A plan can specify a type, which indicates whether the payment definitions in the plan have a fixed or infinite number of payment cycles."
+    },
+    "starter": {
+      "name": "Starter",
+      "description": "<span class='bold text-selected'>Starter plan</span> - you use billing plans and billing agreements to create an agreement for a recurring <span class='bold text-selected'>einblik</span> for goods or services. <br><br> A billing plan includes payment definitions and other details. A plan must include at least one regular payment definition and, optionally, a trial payment definition. A payment definition indicates how often and for how long the subscriber is charged. A plan can specify a type, which indicates whether the payment definitions in the plan have a fixed or infinite number of payment cycles."
+    },
+    "preferences": "The plan contain the next preferences:",
+    "title": "Title",
+    "used": "Used",
+    "limit": "Limit",
+    "links_per_month": "Links per Month",
+    "custom_domains": "Custom Domains",
+    "groups": "Groups",
+    "users_per_group": "Users per Group",
+    "upgrade": "Upgrade",
+    "unsubscribe": "Unsubscribe"
+  },
+
+  "upgrade": {
+    "plans": "Plans",
+    "price": "Monthly Price"
+  },
+
+  "modal_share": {
+    "choose": "Share to Social Media",
+    "share_in": "Share in"
+  },
+
+  "social_media": {
+    "title": "Link your account with social networks",
+    "social_media": "Social Media",
+    "account": "Acccount",
+    "set_default": "Set as Default",
+    "no_accounts": "You don't have connected social media accounts",
+    "unlink_social": "Unlink Social Account",
+    "unlink_social_conf": "Are you sure that you want to unlink Your social account?"
+  },
+
+  "share_domains": {
+    "share": "Share"
+  },
+
+  "confirmation_modal": {
+    "unsubscribe_conf": "Are you sure that you want to unsubscribe from Your current plan?"
+  },
+
+  "email": {
+    "verify_email": {
+      "subject": "Welcome to Einblik",
+      "html": "<div itemscope itemtype='http://schema.org/EmailMessage' style='font-family: Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; width: 100% !important; height: 100%; line-height: 1.6em; background-color: #f6f6f6; margin: 0;'><table style='box-sizing: border-box; width: 100%;'><tr><td style='box-sizing: border-box; vertical-align: top;'></td><td width='600' style='box-sizing: border-box; vertical-align: top; display: block !important; max-width: 600px !important; clear: both !important; margin: 0 auto;'><div style='box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;'><div style='box-sizing: border-box; width: 100%; clear: both;  margin: 0; padding: 20px;'><table width='100%' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box;  margin: 0;'><td style='background-image: url(__logoUrl__);background-repeat: no-repeat; background-position: center; background-size: contain; width: auto; height: 60px; margin: auto; '></td></tr></table></div><table width='100%' cellpadding='0' cellspacing='0' itemprop='action' itemscope itemtype='http://schema.org/ConfirmAction' style='box-sizing: border-box; border-radius: 3px; background-color: #fff; margin: 0; border: 1px solid #e9e9e9;'><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 20px;'><meta itemprop='name' content='Confirm Email' style='box-sizing: border-box; margin: 0;'/><table width='100%' cellpadding='0' cellspacing='0' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box; margin: 0;'><td align='center' valign='middle' style='color:#444444; box-sizing: border-box; font-size:26px;line-height:140%;font-weight:bold;padding-top:20px;padding-right:20px;padding-bottom:30px;padding-left:20px;border-bottom:1px solid #e2e2e2'>Please confirm your Einblik account</td></tr><tr style='box-sizing: border-box; font-size: 16px; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px 0 30px;'>Hi __userFirstName__,<br/>Please click the following <a href='__url__' target='_blank'>link</a> to verify your email address.</td></tr><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 0 0 20px;'>Best regards, The Einblik Team.</td></tr></table></td></tr></table><div class='footer' style='box-sizing: border-box; width: 100%; clear: both; color: #999; margin: 0; padding: 20px;'><table width='100%' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; font-size: 12px; vertical-align: top; color: #999; text-align: center; margin: 0; padding: 0 0 20px;' align='center' valign='top'>&#9400;<a href='https://vantino.com' target='_blank' style='box-sizing: border-box; font-weight: bold; color: #999; text-decoration: underline; margin: 0;'>VANTINO</a><br/></td></tr></table></div></div></td><td style='box-sizing: border-box; vertical-align: top; margin: 0;'></td></tr></table></div>",
+      "text": "Hi __userFirstName__, Please follow this link __url__ to verify your email address. Best regards, The Einblik Team."
+    },
+
+    "reset_pass_email" : {
+      "subject": "Reset password",
+      "html": "<div itemscope itemtype='http://schema.org/EmailMessage' style='font-family: Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; width: 100% !important; height: 100%; line-height: 1.6em; background-color: #f6f6f6; margin: 0;'><table style='box-sizing: border-box; width: 100%;'><tr><td style='box-sizing: border-box; vertical-align: top;'></td><td width='600' style='box-sizing: border-box; vertical-align: top; display: block !important; max-width: 600px !important; clear: both !important; margin: 0 auto;'><div style='box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;'><div style='box-sizing: border-box; width: 100%; clear: both;  margin: 0; padding: 20px;'><table width='100%' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box;  margin: 0;'><td style='background-image: url(__logoUrl__);background-repeat: no-repeat; background-position: center; background-size: contain; width: auto; height: 60px; margin: auto; '></td></tr></table></div><table width='100%' cellpadding='0' cellspacing='0' itemprop='action' itemscope itemtype='http://schema.org/ConfirmAction' style='box-sizing: border-box; border-radius: 3px; background-color: #fff; margin: 0; border: 1px solid #e9e9e9;'><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 20px;'><meta itemprop='name' content='Reset Password' style='box-sizing: border-box; margin: 0;'/><table width='100%' cellpadding='0' cellspacing='0' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box; margin: 0;'><td align='center' valign='middle' style='color:#444444; box-sizing: border-box; font-size:26px;line-height:140%;font-weight:bold;padding-top:20px;padding-right:20px;padding-bottom:30px;padding-left:20px;border-bottom:1px solid #e2e2e2'>Reset password</td></tr><tr style='box-sizing: border-box; font-size: 16px; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px 0 30px;'>Hi __userFirstName__,<br/>Please click the following <a href='__url__' target='_blank'>link</a> to reset your password.</td></tr><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 0 0 20px;'>Best regards, The Einblik Team.</td></tr></table></td></tr></table><div class='footer' style='box-sizing: border-box; width: 100%; clear: both; color: #999; margin: 0; padding: 20px;'><table width='100%' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; font-size: 12px; vertical-align: top; color: #999; text-align: center; margin: 0; padding: 0 0 20px;' align='center' valign='top'>&#9400;<a href='https://vantino.com' target='_blank' style='box-sizing: border-box; font-weight: bold; color: #999; text-decoration: underline; margin: 0;'>VANTINO</a><br/></td></tr></table></div></div></td><td style='box-sizing: border-box; vertical-align: top; margin: 0;'></td></tr></table></div>",
+      "text": "Hi __userFirstName__, Please follow this link __url__ to reset your password. Best regards, The Einblik Team."
+    },
+
+    "group_invitation_email": {
+      "subject": "Group invitation",
+      "registered_users": {
+        "html": "<div itemscope itemtype='http://schema.org/EmailMessage' style='font-family: Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; width: 100% !important; height: 100%; line-height: 1.6em; background-color: #f6f6f6; margin: 0;'><table style='box-sizing: border-box; width: 100%;'><tr><td style='box-sizing: border-box; vertical-align: top;'></td><td width='600' style='box-sizing: border-box; vertical-align: top; display: block !important; max-width: 600px !important; clear: both !important; margin: 0 auto;'><div style='box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;'><div style='box-sizing: border-box; width: 100%; clear: both;  margin: 0; padding: 20px;'><table width='100%' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box;  margin: 0;'><td style='background-image: url(__logoUrl__);background-repeat: no-repeat; background-position: center; background-size: contain; width: auto; height: 60px; margin: auto; '></td></tr></table></div><table width='100%' cellpadding='0' cellspacing='0' itemprop='action' itemscope itemtype='http://schema.org/ConfirmAction' style='box-sizing: border-box; border-radius: 3px; background-color: #fff; margin: 0; border: 1px solid #e9e9e9;'><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 20px;'><meta itemprop='name' content='Group Invitation' style='box-sizing: border-box; margin: 0;'/><table width='100%' cellpadding='0' cellspacing='0' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box; margin: 0;'><td align='center' valign='middle' style='color:#444444; box-sizing: border-box; font-size:26px;line-height:140%;font-weight:bold;padding-top:20px;padding-right:20px;padding-bottom:30px;padding-left:20px;border-bottom:1px solid #e2e2e2'>You're invited to group</td></tr><tr style='box-sizing: border-box; font-size: 16px; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px 0 30px;'>Hi __userFirstName__,<br/>__adminName__ invited you to <a href='__url__' target='_blank'>__groupName__</a>.</td></tr><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 0 0 20px;'>Best regards, The Einblik Team.</td></tr></table></td></tr></table><div class='footer' style='box-sizing: border-box; width: 100%; clear: both; color: #999; margin: 0; padding: 20px;'><table width='100%' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; font-size: 12px; vertical-align: top; color: #999; text-align: center; margin: 0; padding: 0 0 20px;' align='center' valign='top'>&#9400;<a href='https://vantino.com' target='_blank' style='box-sizing: border-box; font-weight: bold; color: #999; text-decoration: underline; margin: 0;'>VANTINO</a><br/></td></tr></table></div></div></td><td style='box-sizing: border-box; vertical-align: top; margin: 0;'></td></tr></table></div>",
+        "text": "Hi __userFirstName__! __adminName__ invited you to __groupName__ group. Please follow this link __url__. Best regards, The Einblik Team."
+      },
+      "unregistered_users": {
+        "html": "<div itemscope itemtype='http://schema.org/EmailMessage' style='font-family: Helvetica,Arial,sans-serif; box-sizing: border-box; font-size: 14px; -webkit-font-smoothing: antialiased; -webkit-text-size-adjust: none; width: 100% !important; height: 100%; line-height: 1.6em; background-color: #f6f6f6; margin: 0;'><table style='box-sizing: border-box; width: 100%;'><tr><td style='box-sizing: border-box; vertical-align: top;'></td><td width='600' style='box-sizing: border-box; vertical-align: top; display: block !important; max-width: 600px !important; clear: both !important; margin: 0 auto;'><div style='box-sizing: border-box; max-width: 600px; display: block; margin: 0 auto; padding: 20px;'><div style='box-sizing: border-box; width: 100%; clear: both;  margin: 0; padding: 20px;'><table width='100%' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box;  margin: 0;'><td style='background-image: url(__logoUrl__);background-repeat: no-repeat; background-position: center; background-size: contain; width: auto; height: 60px; margin: auto; '></td></tr></table></div><table width='100%' cellpadding='0' cellspacing='0' itemprop='action' itemscope itemtype='http://schema.org/ConfirmAction' style='box-sizing: border-box; border-radius: 3px; background-color: #fff; margin: 0; border: 1px solid #e9e9e9;'><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 20px;'><meta itemprop='name' content='Group Invitation' style='box-sizing: border-box; margin: 0;'/><table width='100%' cellpadding='0' cellspacing='0' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box; margin: 0;'><td align='center' valign='middle' style='color:#444444; box-sizing: border-box; font-size:26px;line-height:140%;font-weight:bold;padding-top:20px;padding-right:20px;padding-bottom:30px;padding-left:20px;border-bottom:1px solid #e2e2e2'>You're invited to group</td></tr><tr style='box-sizing: border-box; font-size: 16px; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 30px 0 30px;'>Hi,<br/>you are invited to __groupName__ on Einblik by __adminName__.</td></tr><tr><td><a href='__url__' target='_blank'>Accept ivitation</a>.</td></tr><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; vertical-align: top; margin: 0; padding: 0 0 20px;'>Best regards, The Einblik Team.</td></tr></table></td></tr></table><div class='footer' style='box-sizing: border-box; width: 100%; clear: both; color: #999; margin: 0; padding: 20px;'><table width='100%' style='box-sizing: border-box; margin: 0;'><tr style='box-sizing: border-box; margin: 0;'><td style='box-sizing: border-box; font-size: 12px; vertical-align: top; color: #999; text-align: center; margin: 0; padding: 0 0 20px;' align='center' valign='top'>&#9400;<a href='https://vantino.com' target='_blank' style='box-sizing: border-box; font-weight: bold; color: #999; text-decoration: underline; margin: 0;'>VANTINO</a><br/></td></tr></table></div></div></td><td style='box-sizing: border-box; vertical-align: top; margin: 0;'></td></tr></table></div>",
+        "text": "Hi you are invited to __groupName__ on Einblik by __adminName__. To accept invitation follow this link __url__. Best regards, The Einblik Team."
+      }
+    }
+  },
+
+  "errors": {
+
+    "server_error": {
+      "name": "Error",
+      "type": "Error during loading your data. Please try again"
+    },
+
+    "email_error": {
+      "name": "Email Error",
+      "type": "Email: invalid email"
+    },
+
+    "password_error": {
+      "name": "Password Error",
+      "type": "Passwords do not match"
+    },
+
+    "groups": {
+      "name_error": {
+        "name": "Name Error",
+        "type": {
+          "short_length": "Group Name: should be at least 3 symbols",
+          "name_exists": "Group with this name already exists"
+        }
+      },
+
+      "url_error": {
+        "name": "URL Error",
+        "type": "Website URL: invalid website URL"
+      },
+
+      "user_exists_error": {
+        "name": "User Exists Error",
+        "type": "User already exists in this group"
+      }
+    },
+
+    "users": {
+
+      "first_name_error": {
+        "name": "First Name Error",
+        "type": "First Name: should be at least 3 symbols"
+      },
+
+      "last_name_error": {
+        "name": "Last Name Error",
+        "type": "Last Name: should be at least 3 symbols"
+      },
+
+      "unlink_social_error": {
+        "name": "Social Media Unlinking Error",
+        "type": "You can't delete last social account used in authorization"
+      }
+    },
+
+    "domains": {
+
+      "domain_error_name": "Domain Error",
+      "invalid_domain_error": "Domain: invalid domain",
+      "domain_exists_error": "Domain: domain already exists"
+    },
+
+    "links": {
+
+      "url_error": {
+        "name": "URL Error",
+        "empty_url": "URL: Please, fill the URL field",
+        "invalid_url": "URL: invalid URL"
+      },
+
+      "domain_error": "You don't have access rights to this domain",
+
+      "code_error": {
+        "name": "Code error",
+        "type": "Code: invalid Code"
+      },
+
+      "title_error": {
+        "name": "Title error",
+        "type": "Title: should be at least 3 symbols"
+      }
+    },
+
+    "invitations": {
+      "invitation_exist": {
+        "name": "Invitation Error",
+        "type": "User already invited to this group"
+      }
+    },
+
+    "permissions": {
+      "name": "Permission Error",
+      "does_not_exist": "You don't have permission. Please upgrade your plan",
+      "limit_exceeded": "Permission limit exceeded"
+    }
+  }
+}
